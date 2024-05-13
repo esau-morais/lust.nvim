@@ -1,4 +1,5 @@
-# A Lush Theme for Neovim.
+# (wip) Lust
 
-See: [lush.nvim](http://git.io/lush.nvim) for more information on Lush and a helper script
-to setup your repo clone.
+![wip](https://github.com/esau-morais/lust.nvim/assets/55207584/f66dbc4a-c2ef-4d82-a73e-50f4225dfaee)
+
+Made with [lush.nvim](http://git.io/lush.nvim)
